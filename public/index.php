@@ -1,3 +1,3 @@
 <?php
 
-require '../src/loader.inc.php';
+require '../core/loader.inc.php';
